@@ -1,0 +1,11 @@
+﻿{
+  "Group": "hasanbozkus team",
+  "FriendlyName": "Param Virtual Pos",
+  "SystemName": "Payment.ParamPos",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.10", "4.20", "4.30", "4.40", "4.50", "4.60" ],
+  "Author": "hasanbozkus team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payment.ParamPos.dll",
+  "Description": "Bu eklenti Param Sanal Pos ödeme yöntemleri özelliğini ekler."
+}
